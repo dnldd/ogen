@@ -1,0 +1,4 @@
+collectorgrpcurl=localhost:4317
+collectorhttpurl=localhost:4318
+servicename=ogen
+pprofurl=localhost:1777
